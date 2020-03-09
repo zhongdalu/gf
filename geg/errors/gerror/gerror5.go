@@ -3,9 +3,9 @@ package main
 import (
 	"errors"
 
-	"github.com/gogf/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/glog"
 
-	"github.com/gogf/gf/g/errors/gerror"
+	"github.com/zhongdalu/gf/g/errors/gerror"
 )
 
 func Error1() error {

@@ -1,15 +1,15 @@
-// Copyright 2017-2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017-2019 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with gm file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gmap_test
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/container/gmap"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/container/gmap"
+	"github.com/zhongdalu/gf/g/test/gtest"
 	"testing"
 )
 

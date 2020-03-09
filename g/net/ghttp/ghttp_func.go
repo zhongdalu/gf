@@ -1,16 +1,16 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package ghttp
 
 import (
 	"strings"
 
-	"github.com/gogf/gf/g/encoding/gurl"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g/encoding/gurl"
+	"github.com/zhongdalu/gf/g/util/gconv"
 )
 
 // 构建请求参数，参数支持任意数据类型，常见参数类型为string/map。

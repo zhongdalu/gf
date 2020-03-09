@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/os/gspath"
-	"github.com/gogf/gf/g/os/gtime"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/os/gspath"
+	"github.com/zhongdalu/gf/g/os/gtime"
 	"time"
 )
 

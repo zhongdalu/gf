@@ -7,8 +7,8 @@ package ianaindex_test
 import (
 	"fmt"
 
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/charmap"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/ianaindex"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/charmap"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/ianaindex"
 )
 
 func ExampleIndex() {

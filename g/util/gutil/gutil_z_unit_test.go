@@ -3,8 +3,8 @@ package gutil_test
 import (
 	"testing"
 
-	"github.com/gogf/gf/g/test/gtest"
-	"github.com/gogf/gf/g/util/gutil"
+	"github.com/zhongdalu/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/util/gutil"
 )
 
 func Test_Dump(t *testing.T) {

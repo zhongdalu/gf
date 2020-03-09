@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/util/gvalid"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/util/gvalid"
 )
 
 // same校验

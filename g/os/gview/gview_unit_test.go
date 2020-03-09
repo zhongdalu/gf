@@ -1,11 +1,11 @@
 package gview_test
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/os/gfile"
-	"github.com/gogf/gf/g/os/gview"
-	"github.com/gogf/gf/g/test/gtest"
-	"github.com/gogf/gf/g/text/gstr"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/os/gview"
+	"github.com/zhongdalu/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/text/gstr"
 	"io/ioutil"
 	"os"
 	"testing"

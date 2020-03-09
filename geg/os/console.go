@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gcmd"
+	"github.com/zhongdalu/gf/g/os/gcmd"
 )
 
 func doEcho() {

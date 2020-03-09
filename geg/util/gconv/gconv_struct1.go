@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/util/gconv"
 )
 
 type User struct {

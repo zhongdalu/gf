@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gogf/gf/g/container/gchan"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/container/gchan"
+	"github.com/zhongdalu/gf/g/test/gtest"
 )
 
 func Test_Gchan(t *testing.T) {

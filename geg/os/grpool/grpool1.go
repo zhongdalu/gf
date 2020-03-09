@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/grpool"
-	"github.com/gogf/gf/g/os/gtimer"
+	"github.com/zhongdalu/gf/g/os/grpool"
+	"github.com/zhongdalu/gf/g/os/gtimer"
 	"time"
 )
 

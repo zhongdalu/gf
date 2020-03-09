@@ -11,7 +11,7 @@ import (
 	"unicode/utf16"
 	"unsafe"
 
-	"github.com/gogf/gf/third/golang.org/x/sys/windows"
+	"github.com/zhongdalu/gf/third/golang.org/x/sys/windows"
 )
 
 const (

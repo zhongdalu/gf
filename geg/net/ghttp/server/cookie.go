@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/net/ghttp"
-	"github.com/gogf/gf/g/os/gtime"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/os/gtime"
 )
 
 func main() {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/net/ghttp"
-	"github.com/gogf/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/os/gfile"
 )
 
 // 执行文件上传处理，上传到系统临时目录 /tmp

@@ -2,7 +2,7 @@ package demo
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 )
 
 func Form(r *ghttp.Request) {

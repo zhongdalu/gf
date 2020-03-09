@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"errors"
 	"reflect"
-	// "github.com/gogf/gf/third/github.com/fatih/structs"
+	// "github.com/zhongdalu/gf/third/github.com/fatih/structs"
 )
 
 // Create a new Map value from a structure.  Error returned if argument is not a structure.
@@ -16,7 +16,7 @@ import (
 // for handling of "structs" tags.
 
 // DEPRECATED - import github.com/fatih/structs and cast result of structs.Map to mxj.Map.
-//	import "github.com/gogf/gf/third/github.com/fatih/structs"
+//	import "github.com/zhongdalu/gf/third/github.com/fatih/structs"
 //	...
 //	   sm, err := structs.Map(<some struct>)
 //	   if err != nil {

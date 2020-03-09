@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
+	"github.com/zhongdalu/gf/g"
 )
 
 // 使用第二个参数指定读取的配置文件

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/util/gconv"
 )
 
 // 使用默认映射规则绑定属性值到对象

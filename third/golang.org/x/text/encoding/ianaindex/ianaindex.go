@@ -16,14 +16,14 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gogf/gf/third/golang.org/x/text/encoding"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/charmap"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/internal/identifier"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/japanese"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/korean"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/simplifiedchinese"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/traditionalchinese"
-	"github.com/gogf/gf/third/golang.org/x/text/encoding/unicode"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/charmap"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/internal/identifier"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/japanese"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/korean"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/simplifiedchinese"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/traditionalchinese"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/encoding/unicode"
 )
 
 // TODO: remove the "Status... incomplete" in the package doc comment.

@@ -7,12 +7,12 @@
 //
 // This package is internal now, but will eventually be exposed after the API
 // settles.
-package format // import "github.com/gogf/gf/third/golang.org/x/text/internal/format"
+package format // import "github.com/zhongdalu/gf/third/golang.org/x/text/internal/format"
 
 import (
 	"fmt"
 
-	"github.com/gogf/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
 )
 
 // State represents the printer state passed to custom formatters. It provides

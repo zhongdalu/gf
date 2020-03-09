@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/glog"
 )
 
 // 设置日志等级，过滤掉Info日志信息

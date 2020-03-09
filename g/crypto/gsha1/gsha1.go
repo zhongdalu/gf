@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 // Package gsha1 provides useful API for SHA1 encryption algorithms.
 package gsha1
@@ -13,8 +13,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/gogf/gf/g/errors/gerror"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g/errors/gerror"
+	"github.com/zhongdalu/gf/g/util/gconv"
 )
 
 // Encrypt encrypts any type of variable using SHA1 algorithms.

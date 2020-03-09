@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/third/golang.org/x/sys/unix"
+	"github.com/zhongdalu/gf/third/golang.org/x/sys/unix"
 )
 
 // testExchangedataForWatcher tests the watcher with the exchangedata operation on macOS.

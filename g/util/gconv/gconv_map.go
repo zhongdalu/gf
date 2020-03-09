@@ -1,8 +1,8 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gconv
 
@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/gogf/gf/g/internal/empty"
-	"github.com/gogf/gf/g/internal/strutils"
+	"github.com/zhongdalu/gf/g/internal/empty"
+	"github.com/zhongdalu/gf/g/internal/strutils"
 )
 
 // Map converts any variable <value> to map[string]interface{}.

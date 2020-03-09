@@ -1,8 +1,8 @@
 package genv_test
 
 import (
-	"github.com/gogf/gf/g/os/genv"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/os/genv"
+	"github.com/zhongdalu/gf/g/test/gtest"
 	"os"
 	"testing"
 )

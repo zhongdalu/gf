@@ -1,6 +1,6 @@
 package demo
 
-import "github.com/gogf/gf/g/net/ghttp"
+import "github.com/zhongdalu/gf/g/net/ghttp"
 
 // 测试绑定对象
 type ObjectRest struct{}

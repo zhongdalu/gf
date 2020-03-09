@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/grpool"
+	"github.com/zhongdalu/gf/g/os/grpool"
 	"sync"
 )
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gfcache"
-	"github.com/gogf/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/os/gfcache"
+	"github.com/zhongdalu/gf/g/os/gfile"
 	"time"
 )
 

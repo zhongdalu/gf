@@ -1,8 +1,8 @@
-// Copyright 2017-2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017-2019 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with gm file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gtree_test
 
@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gogf/gf/g/container/gtree"
-	"github.com/gogf/gf/g/container/gvar"
-	"github.com/gogf/gf/g/test/gtest"
-	"github.com/gogf/gf/g/util/gutil"
+	"github.com/zhongdalu/gf/g/container/gtree"
+	"github.com/zhongdalu/gf/g/container/gvar"
+	"github.com/zhongdalu/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/util/gutil"
 )
 
 func Test_AVLTree_Basic(t *testing.T) {

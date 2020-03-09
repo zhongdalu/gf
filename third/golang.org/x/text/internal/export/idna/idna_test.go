@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/testtext"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/ucd"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/testtext"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/ucd"
 )
 
 func TestAllocToUnicode(t *testing.T) {

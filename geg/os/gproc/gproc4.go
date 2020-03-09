@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/os/genv"
-	"github.com/gogf/gf/g/os/glog"
-	"github.com/gogf/gf/g/os/gproc"
+	"github.com/zhongdalu/gf/g/os/genv"
+	"github.com/zhongdalu/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/gproc"
 	"os"
 	"time"
 )

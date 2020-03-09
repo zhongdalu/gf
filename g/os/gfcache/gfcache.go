@@ -1,8 +1,8 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 // Package gfcache provides reading and caching for file contents.
 package gfcache
@@ -10,10 +10,10 @@ package gfcache
 import (
 	"time"
 
-	"github.com/gogf/gf/g/internal/cmdenv"
-	"github.com/gogf/gf/g/os/gcache"
-	"github.com/gogf/gf/g/os/gfile"
-	"github.com/gogf/gf/g/os/gfsnotify"
+	"github.com/zhongdalu/gf/g/internal/cmdenv"
+	"github.com/zhongdalu/gf/g/os/gcache"
+	"github.com/zhongdalu/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/os/gfsnotify"
 )
 
 const (

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gproc"
+	"github.com/zhongdalu/gf/g/os/gproc"
 )
 
 // 执行shell指令

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/os/gview"
-	"github.com/gogf/gf/g/util/gutil"
+	"github.com/zhongdalu/gf/g/os/gview"
+	"github.com/zhongdalu/gf/g/util/gutil"
 )
 
 func main() {

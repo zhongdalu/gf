@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gogf/gf/g/errors/gerror"
+	"github.com/zhongdalu/gf/g/errors/gerror"
 )
 
 func OpenFile() error {

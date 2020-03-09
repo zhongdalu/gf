@@ -1,8 +1,8 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gfsnotify
 
@@ -10,7 +10,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gogf/gf/g/container/glist"
+	"github.com/zhongdalu/gf/g/container/glist"
 )
 
 // 添加监控，path参数支持文件或者目录路径，recursive为非必需参数，默认为递归监控(当path为目录时)。

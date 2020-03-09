@@ -3,8 +3,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gproc"
-	"github.com/gogf/gf/g/os/gtime"
+	"github.com/zhongdalu/gf/g/os/gproc"
+	"github.com/zhongdalu/gf/g/os/gtime"
 	"os"
 	"time"
 )

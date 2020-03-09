@@ -3,7 +3,7 @@ package main
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 	"net/http"
 )
 

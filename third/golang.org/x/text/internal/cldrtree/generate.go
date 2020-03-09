@@ -12,11 +12,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
 )
 
 func generate(b *Builder, t *Tree, w *gen.CodeWriter) error {
-	fmt.Fprintln(w, `import "github.com/gogf/gf/third/golang.org/x/text/internal/cldrtree"`)
+	fmt.Fprintln(w, `import "github.com/zhongdalu/gf/third/golang.org/x/text/internal/cldrtree"`)
 	fmt.Fprintln(w)
 
 	fmt.Fprintf(w, "var tree = &cldrtree.Tree{locales, indices, buckets}\n\n")

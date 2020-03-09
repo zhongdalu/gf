@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
+	"github.com/zhongdalu/gf/g"
 )
 
 // 用于测试的带参数的内置函数

@@ -2,8 +2,8 @@ package main
 
 import (
 	"errors"
-	"github.com/gogf/gf/g/errors/gerror"
-	"github.com/gogf/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/errors/gerror"
+	"github.com/zhongdalu/gf/g/os/glog"
 )
 
 func MakeError() error {

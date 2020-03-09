@@ -2,7 +2,7 @@ package gmap_test
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/container/gmap"
+	"github.com/zhongdalu/gf/g/container/gmap"
 )
 
 func Example_Normal_Basic() {

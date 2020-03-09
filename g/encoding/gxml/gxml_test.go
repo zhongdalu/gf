@@ -1,17 +1,17 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gxml_test
 
 import (
 	"bytes"
-	"github.com/gogf/gf/g/encoding/gcharset"
-	"github.com/gogf/gf/g/encoding/gparser"
-	"github.com/gogf/gf/g/encoding/gxml"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/encoding/gcharset"
+	"github.com/zhongdalu/gf/g/encoding/gparser"
+	"github.com/zhongdalu/gf/g/encoding/gxml"
+	"github.com/zhongdalu/gf/g/test/gtest"
 	"strings"
 	"testing"
 )

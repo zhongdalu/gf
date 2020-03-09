@@ -4,8 +4,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/gogf/gf/g/container/gtype"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/container/gtype"
+	"github.com/zhongdalu/gf/g/test/gtest"
 )
 
 type Temp struct {

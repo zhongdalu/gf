@@ -16,11 +16,11 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/gogf/gf/third/golang.org/x/text/collate"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/ucd"
-	"github.com/gogf/gf/third/golang.org/x/text/language"
-	"github.com/gogf/gf/third/golang.org/x/text/unicode/rangetable"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/collate"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/ucd"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/unicode/rangetable"
 )
 
 var versionList = flag.String("versions", "",

@@ -1,8 +1,8 @@
 package gfile_test
 
 import (
-	"github.com/gogf/gf/g/os/gfile"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/test/gtest"
 	"testing"
 )
 

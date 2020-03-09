@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/net/gudp"
+	"github.com/zhongdalu/gf/g/net/gudp"
 )
 
 func main() {

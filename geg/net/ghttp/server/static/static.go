@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gogf/gf/g"
+import "github.com/zhongdalu/gf/g"
 
 // 静态文件服务器基本使用
 func main() {

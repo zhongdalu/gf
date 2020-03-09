@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/crypto/gaes"
-	"github.com/gogf/gf/g/database/gdb"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/crypto/gaes"
+	"github.com/zhongdalu/gf/g/database/gdb"
 )
 
 func main() {

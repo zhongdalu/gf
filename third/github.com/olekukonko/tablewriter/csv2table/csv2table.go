@@ -8,7 +8,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/gogf/gf/third/github.com/olekukonko/tablewriter"
+	"github.com/zhongdalu/gf/third/github.com/olekukonko/tablewriter"
 )
 
 var (

@@ -14,8 +14,8 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/testtext"
-	"github.com/gogf/gf/third/golang.org/x/text/transform"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/testtext"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/transform"
 )
 
 var (
@@ -924,7 +924,7 @@ func TestLinking(t *testing.T) {
 	const prog = `
 	package main
 	import "fmt"
-	import "github.com/gogf/gf/third/golang.org/x/text/unicode/norm"
+	import "github.com/zhongdalu/gf/third/golang.org/x/text/unicode/norm"
 	func main() { fmt.Println(norm.%s) }
 	`
 	baseline, errB := testtext.CodeSize(fmt.Sprintf(prog, "MaxSegmentSize"))

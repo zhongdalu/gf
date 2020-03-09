@@ -3,13 +3,13 @@
 // license that can be found in the LICENSE file.
 
 // Package runes provide transforms for UTF-8 encoded text.
-package runes // import "github.com/gogf/gf/third/golang.org/x/text/runes"
+package runes // import "github.com/zhongdalu/gf/third/golang.org/x/text/runes"
 
 import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/gogf/gf/third/golang.org/x/text/transform"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/transform"
 )
 
 // A Set is a collection of runes.

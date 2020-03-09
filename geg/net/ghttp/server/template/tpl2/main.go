@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/frame/gins"
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/frame/gins"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 )
 
 func main() {

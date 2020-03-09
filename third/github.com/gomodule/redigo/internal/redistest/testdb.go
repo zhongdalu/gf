@@ -19,7 +19,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/gogf/gf/third/github.com/gomodule/redigo/redis"
+	"github.com/zhongdalu/gf/third/github.com/gomodule/redigo/redis"
 )
 
 type testConn struct {

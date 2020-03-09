@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gdb
 
@@ -10,14 +10,14 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/gogf/gf/g/text/gregex"
+	"github.com/zhongdalu/gf/g/text/gregex"
 )
 
 // PostgreSQL的适配.
 //
 // 使用时需要import:
 //
-// _ "github.com/gogf/gf/third/github.com/lib/pq"
+// _ "github.com/zhongdalu/gf/third/github.com/lib/pq"
 //
 // @todo 需要完善replace和save的操作覆盖
 

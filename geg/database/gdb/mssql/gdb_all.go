@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	_ "github.com/denisenkom/go-mssqldb"
-	"github.com/gogf/gf/g"
+	"github.com/zhongdalu/gf/g"
 )
 
 func main() {

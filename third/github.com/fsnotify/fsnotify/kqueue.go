@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gogf/gf/third/golang.org/x/sys/unix"
+	"github.com/zhongdalu/gf/third/golang.org/x/sys/unix"
 )
 
 // Watcher watches a set of files, delivering events to a channel.

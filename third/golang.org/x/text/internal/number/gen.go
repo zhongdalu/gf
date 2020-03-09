@@ -14,12 +14,12 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/number"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/stringset"
-	"github.com/gogf/gf/third/golang.org/x/text/language"
-	"github.com/gogf/gf/third/golang.org/x/text/unicode/cldr"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/number"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/stringset"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/unicode/cldr"
 )
 
 var (
@@ -54,7 +54,7 @@ func main() {
 	w := gen.NewCodeWriter()
 	defer w.WriteGoFile(*outputFile, pkg)
 
-	fmt.Fprintln(w, `import "github.com/gogf/gf/third/golang.org/x/text/internal/stringset"`)
+	fmt.Fprintln(w, `import "github.com/zhongdalu/gf/third/golang.org/x/text/internal/stringset"`)
 
 	gen.WriteCLDRVersion(w)
 

@@ -10,9 +10,9 @@ import (
 	"flag"
 	"log"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/triegen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/ucd"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/triegen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/ucd"
 )
 
 var outputFile = flag.String("out", "tables.go", "output file")

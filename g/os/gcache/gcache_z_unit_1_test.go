@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 // go test *.go -bench=".*" -benchmem
 
@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/container/gset"
-	"github.com/gogf/gf/g/os/gcache"
-	"github.com/gogf/gf/g/os/grpool"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/container/gset"
+	"github.com/zhongdalu/gf/g/os/gcache"
+	"github.com/zhongdalu/gf/g/os/grpool"
+	"github.com/zhongdalu/gf/g/test/gtest"
 )
 
 //clear 用于清除全局缓存，因gcache api 暂未暴露 Clear 方法

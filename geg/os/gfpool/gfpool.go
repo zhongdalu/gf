@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gfpool"
+	"github.com/zhongdalu/gf/g/os/gfpool"
 	"os"
 	"time"
 )

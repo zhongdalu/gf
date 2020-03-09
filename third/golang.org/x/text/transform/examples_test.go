@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"unicode"
 
-	"github.com/gogf/gf/third/golang.org/x/text/transform"
-	"github.com/gogf/gf/third/golang.org/x/text/unicode/norm"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/transform"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/unicode/norm"
 )
 
 func ExampleRemoveFunc() {

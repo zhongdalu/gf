@@ -1,8 +1,8 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gredis_test
 
@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/g/database/gredis"
-	"github.com/gogf/gf/g/test/gtest"
-	redis2 "github.com/gogf/gf/third/github.com/gomodule/redigo/redis"
+	"github.com/zhongdalu/gf/g/database/gredis"
+	"github.com/zhongdalu/gf/g/test/gtest"
+	redis2 "github.com/zhongdalu/gf/third/github.com/gomodule/redigo/redis"
 )
 
 var (

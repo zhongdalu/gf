@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/gogf/gf/third/golang.org/x/sys/windows"
+	"github.com/zhongdalu/gf/third/golang.org/x/sys/windows"
 )
 
 func TestWin32finddata(t *testing.T) {

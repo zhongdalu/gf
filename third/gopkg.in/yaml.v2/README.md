@@ -57,7 +57,7 @@ import (
         "fmt"
         "log"
 
-        "github.com/gogf/gf/third/gopkg.in/yaml.v2"
+        "github.com/zhongdalu/gf/third/gopkg.in/yaml.v2"
 )
 
 var data = `

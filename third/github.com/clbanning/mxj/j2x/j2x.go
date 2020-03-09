@@ -7,7 +7,7 @@
 package j2x
 
 import (
-	. "github.com/gogf/gf/third/github.com/clbanning/mxj"
+	. "github.com/zhongdalu/gf/third/github.com/clbanning/mxj"
 	"io"
 )
 

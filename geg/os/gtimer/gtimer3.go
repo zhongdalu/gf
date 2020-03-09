@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/os/glog"
-	"github.com/gogf/gf/g/os/gtimer"
+	"github.com/zhongdalu/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/gtimer"
 	"time"
 )
 

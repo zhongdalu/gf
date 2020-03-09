@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gogf/gf/third/golang.org/x/sys/unix"
+	"github.com/zhongdalu/gf/third/golang.org/x/sys/unix"
 )
 
 // stringsFromByteSlice converts a sequence of attributes to a []string.

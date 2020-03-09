@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/encoding/ghash"
+	"github.com/zhongdalu/gf/g/encoding/ghash"
 	"strconv"
 )
 

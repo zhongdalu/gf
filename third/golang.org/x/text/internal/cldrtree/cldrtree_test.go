@@ -17,9 +17,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/language"
-	"github.com/gogf/gf/third/golang.org/x/text/unicode/cldr"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/unicode/cldr"
 )
 
 var genOutput = flag.Bool("gen", false, "generate output files")

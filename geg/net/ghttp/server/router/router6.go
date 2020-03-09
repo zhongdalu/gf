@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 )
 
 // 试试模糊匹配规则不带名称会怎么样

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	_ "github.com/gogf/gf/geg/frame/mvc/controller/demo"
-	_ "github.com/gogf/gf/geg/frame/mvc/controller/stats"
+	"github.com/zhongdalu/gf/g"
+	_ "github.com/zhongdalu/gf/geg/frame/mvc/controller/demo"
+	_ "github.com/zhongdalu/gf/geg/frame/mvc/controller/stats"
 )
 
 func main() {

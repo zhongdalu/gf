@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gogf/gf/third/github.com/theckman/go-flock"
+	"github.com/zhongdalu/gf/third/github.com/theckman/go-flock"
 )
 
 func main() {

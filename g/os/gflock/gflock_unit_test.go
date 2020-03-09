@@ -1,8 +1,8 @@
-// Copyright 2019 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2019 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package gflock_test
 
@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gogf/gf/g/container/garray"
-	"github.com/gogf/gf/g/os/gfile"
-	"github.com/gogf/gf/g/os/gflock"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/container/garray"
+	"github.com/zhongdalu/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/os/gflock"
+	"github.com/zhongdalu/gf/g/test/gtest"
 )
 
 func Test_GFlock_Base(t *testing.T) {

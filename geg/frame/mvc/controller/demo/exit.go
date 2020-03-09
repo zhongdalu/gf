@@ -1,8 +1,8 @@
 package demo
 
 import (
-	"github.com/gogf/gf/g/frame/gmvc"
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/frame/gmvc"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 )
 
 type ControllerExit struct {

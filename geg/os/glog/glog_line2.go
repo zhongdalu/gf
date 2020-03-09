@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/glog"
 )
 
 func PrintLog(content string) {

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/net/gtcp"
-	"github.com/gogf/gf/g/os/glog"
-	"github.com/gogf/gf/g/os/gtimer"
-	"github.com/gogf/gf/geg/net/gtcp/pkg_operations/common/funcs"
-	"github.com/gogf/gf/geg/net/gtcp/pkg_operations/common/types"
+	"github.com/zhongdalu/gf/g/net/gtcp"
+	"github.com/zhongdalu/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g/os/gtimer"
+	"github.com/zhongdalu/gf/geg/net/gtcp/pkg_operations/common/funcs"
+	"github.com/zhongdalu/gf/geg/net/gtcp/pkg_operations/common/types"
 	"time"
 )
 

@@ -1,18 +1,18 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 // Package gpage provides useful paging functionality for web pages.
 package gpage
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/net/ghttp"
-	"github.com/gogf/gf/g/text/gregex"
-	"github.com/gogf/gf/g/text/gstr"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/text/gregex"
+	"github.com/zhongdalu/gf/g/text/gstr"
+	"github.com/zhongdalu/gf/g/util/gconv"
 	"math"
 	url2 "net/url"
 	"strings"

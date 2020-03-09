@@ -9,9 +9,9 @@ package main
 import (
 	"unicode"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal/gen"
-	"github.com/gogf/gf/third/golang.org/x/text/internal/ucd"
-	"github.com/gogf/gf/third/golang.org/x/text/unicode/rangetable"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/gen"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal/ucd"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/unicode/rangetable"
 )
 
 // These tables are hand-extracted from:

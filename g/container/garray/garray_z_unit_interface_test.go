@@ -1,17 +1,17 @@
-// Copyright 2018 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2018 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 // go test *.go
 
 package garray_test
 
 import (
-	"github.com/gogf/gf/g/container/garray"
-	"github.com/gogf/gf/g/test/gtest"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g/container/garray"
+	"github.com/zhongdalu/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/util/gconv"
 	"strings"
 	"testing"
 	"time"

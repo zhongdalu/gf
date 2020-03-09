@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gogf/gf/g/encoding/gparser"
+import "github.com/zhongdalu/gf/g/encoding/gparser"
 
 func main() {
 	xml := `<?xml version="1.0" encoding="GBK"?>

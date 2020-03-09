@@ -1,16 +1,16 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with this file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 
 package g
 
 import (
-	"github.com/gogf/gf/g/container/gvar"
-	"github.com/gogf/gf/g/internal/empty"
-	"github.com/gogf/gf/g/net/ghttp"
-	"github.com/gogf/gf/g/util/gutil"
+	"github.com/zhongdalu/gf/g/container/gvar"
+	"github.com/zhongdalu/gf/g/internal/empty"
+	"github.com/zhongdalu/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/util/gutil"
 )
 
 // NewVar returns a *gvar.Var.

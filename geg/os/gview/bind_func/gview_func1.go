@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/os/gview"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/os/gview"
 )
 
 // 用于测试的内置函数

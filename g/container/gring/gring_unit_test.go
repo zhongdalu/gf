@@ -2,9 +2,9 @@ package gring_test
 
 import (
 	"container/ring"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/container/gring"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/container/gring"
+	"github.com/zhongdalu/gf/g/test/gtest"
 	"testing"
 )
 

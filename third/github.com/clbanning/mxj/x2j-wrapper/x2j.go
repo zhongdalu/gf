@@ -81,7 +81,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gogf/gf/third/github.com/clbanning/mxj"
+	"github.com/zhongdalu/gf/third/github.com/clbanning/mxj"
 )
 
 // If X2jCharsetReader != nil, it will be used to decode the doc or stream if required

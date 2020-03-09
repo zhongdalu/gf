@@ -1,9 +1,9 @@
 package main
 
 //import (
-//    _ "github.com/gogf/gf/third/github.com/mattn/go-sqlite3"
-//    "github.com/gogf/gf/g/database/gdb"
-//    "github.com/gogf/gf/g"
+//    _ "github.com/zhongdalu/gf/third/github.com/mattn/go-sqlite3"
+//    "github.com/zhongdalu/gf/g/database/gdb"
+//    "github.com/zhongdalu/gf/g"
 //    "fmt"
 //)
 //

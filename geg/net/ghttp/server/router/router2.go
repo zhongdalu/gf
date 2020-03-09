@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gogf/gf/g/net/ghttp"
+import "github.com/zhongdalu/gf/g/net/ghttp"
 
 func main() {
 	s := ghttp.GetServer()

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gogf/gf/g/os/gfile"
-	"github.com/gogf/gf/g/test/gtest"
+	"github.com/zhongdalu/gf/g/os/gfile"
+	"github.com/zhongdalu/gf/g/test/gtest"
 )
 
 func TestIsDir(t *testing.T) {

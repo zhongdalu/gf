@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/util/gconv"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/util/gconv"
 )
 
 func main() {

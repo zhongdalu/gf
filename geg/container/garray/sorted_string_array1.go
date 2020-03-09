@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/container/garray"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/container/garray"
 )
 
 func main() {

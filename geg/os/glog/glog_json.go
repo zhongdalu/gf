@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gogf/gf/g"
-	"github.com/gogf/gf/g/os/glog"
+	"github.com/zhongdalu/gf/g"
+	"github.com/zhongdalu/gf/g/os/glog"
 )
 
 func main() {

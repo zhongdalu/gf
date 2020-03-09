@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gogf/gf/g/net/ghttp"
+	"github.com/zhongdalu/gf/g/net/ghttp"
 	"net/http"
 )
 

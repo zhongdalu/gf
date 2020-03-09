@@ -3,8 +3,8 @@ package funcs
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gogf/gf/g/net/gtcp"
-	"github.com/gogf/gf/geg/net/gtcp/pkg_operations/common/types"
+	"github.com/zhongdalu/gf/g/net/gtcp"
+	"github.com/zhongdalu/gf/geg/net/gtcp/pkg_operations/common/types"
 )
 
 // 自定义格式发送消息包

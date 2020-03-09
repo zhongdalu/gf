@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/os/gmlock"
+	"github.com/zhongdalu/gf/g/os/gmlock"
 	"math/rand"
 	"sync"
 	"time"

@@ -1,6 +1,6 @@
 package types
 
-import "github.com/gogf/gf/g"
+import "github.com/zhongdalu/gf/g"
 
 type NodeInfo struct {
 	Cpu      float32 // CPU百分比(%)

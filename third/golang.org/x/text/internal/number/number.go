@@ -10,8 +10,8 @@ package number
 import (
 	"unicode/utf8"
 
-	"github.com/gogf/gf/third/golang.org/x/text/internal"
-	"github.com/gogf/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/internal"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
 )
 
 // Info holds number formatting configuration data.

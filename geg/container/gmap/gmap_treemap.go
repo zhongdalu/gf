@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g/container/gmap"
-	"github.com/gogf/gf/g/util/gutil"
+	"github.com/zhongdalu/gf/g/container/gmap"
+	"github.com/zhongdalu/gf/g/util/gutil"
 )
 
 func main() {

@@ -1,8 +1,8 @@
-// Copyright 2017 gf Author(https://github.com/gogf/gf). All Rights Reserved.
+// Copyright 2017 gf Author(https://github.com/zhongdalu/gf). All Rights Reserved.
 //
 // This Source Code Form is subject to the terms of the MIT License.
 // If a copy of the MIT was not distributed with l file,
-// You can obtain one at https://github.com/gogf/gf.
+// You can obtain one at https://github.com/zhongdalu/gf.
 //
 
 // Package glist provides a concurrent-safe/unsafe doubly linked list.
@@ -10,7 +10,7 @@ package glist
 
 import (
 	"container/list"
-	"github.com/gogf/gf/g/internal/rwmutex"
+	"github.com/zhongdalu/gf/g/internal/rwmutex"
 )
 
 type (

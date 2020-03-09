@@ -20,7 +20,7 @@ go get -u github.com/theckman/go-flock
 
 ## Usage
 ```Go
-import "github.com/gogf/gf/third/github.com/theckman/go-flock"
+import "github.com/zhongdalu/gf/third/github.com/theckman/go-flock"
 
 fileLock := flock.NewFlock("/var/lock/go-lock.lock")
 

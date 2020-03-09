@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gogf/gf/third/golang.org/x/text/language"
+	"github.com/zhongdalu/gf/third/golang.org/x/text/language"
 )
 
 // A Renderer renders a Message.

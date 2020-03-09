@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gogf/gf/g"
+	"github.com/zhongdalu/gf/g"
 )
 
 // 演示在找不到配置文件时的错误提示
